@@ -1,7 +1,17 @@
 # AUTOMATED-REPORT-GENERATION
 DEVELOP A SCRIPT THAT READS DATA FROM A FILE, ANALYZES IT, AND GENERATES A FORMATTED PDF REPORT USING LIBRARIES LIKE FPDF OR REPORTLAB.
 
+"Company": CODTECH IT SOLUTIONS
 
+Candidate Name:- Mohammad Muzzammil Sheikh
+
+"INTERN ID":CTIS7880
+
+"DOMAIN": Python Programming
+
+"Duration":4 weeks
+
+"Mentor": NEELA SANTOSH
 
 📊 Automated Sales Report Generator (Python Project)
 🚀 Project Overview
