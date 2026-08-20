@@ -114,3 +114,5 @@ Add advanced analytics and filtering options
 This project demonstrates the practical application of Python in automating business processes. By combining data analysis with report generation, it showcases how raw data can be transformed into meaningful insights and presented in a professional format.
 
 It is an excellent addition to any portfolio and highlights skills in Python, data analysis, and real-world problem-solving.
+
+fdhiho
